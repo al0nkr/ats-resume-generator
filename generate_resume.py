@@ -40,22 +40,27 @@ def generate_resume_data(texts):
             resume_data.append((text, le.inverse_transform([pred])[0]))
     return resume_data
 
-sample_texts = [
-    "Suraj Balaso Malvadkar Phone: +91-9730443473",
-    "B.E (Computer Engineering) E-mail: malavadkar.suraj@gmail.com",
-    "Willing to work as a key player in challenging & creative field of Information Technology, with leading organization of hi-tech environment having committed & dedicated people, which will help me to explore myself fully and to realize my potential.",
-    "Diploma in .NET from MindScripts Pune, 2017, Grade B",
-    "B.E(Computer Engineering) from Pune University, 2016, 62.26%, First",
-    "Technical Skill: C++, C#.NET, ASP.NET, ADO.NET, Java Scripts",
-    "Project: Personal Organization Website using HTML, CSS, JavaScript",
-    "Personal Details: Name: Mr.Suraj Balaso Malvadkar, D.O.B: 01, January, 1994",
-    "Languages: English, Hindi, Marathi",
-    "Hobby: Playing Cricket"
-]
+with open('test.json', 'r', encoding='utf-8') as f:
+    sample_texts = [str(value) for value in json.load(f).values()]
+    sample_texts = []
+
+def extract_values(obj):
+    if isinstance(obj, dict):
+        for value in obj.values():
+            extract_values(value)
+    elif isinstance(obj, list):
+        for item in obj:
+            extract_values(item)
+    else:
+        sample_texts.append(str(obj))
+
+with open('test.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+    extract_values(data)
+
 
 # Generate resume data using the fine-tuned BERT model
 generated_resume_data = generate_resume_data(sample_texts)
-print(generated_resume_data)
 
 # Map the generated resume data to the required format
 resume_data = {
@@ -87,7 +92,7 @@ resume_data = {
 }
 # Initialize the language model
 llm = ChatGroq(
-    model="llama-3.1-8b-instant",
+    model="llama-3.1-70b-versatile",
     temperature=0,
     max_tokens=None,
     timeout=None,
@@ -103,7 +108,6 @@ Meta: {meta}
 
 Ensure the section is well-formatted and no line should exceed 40 words.
 Also ensure only content is generated and no additional text is added.
-generate points only for each section.
 """
 
 section_prompt = PromptTemplate(
@@ -122,62 +126,95 @@ def generate_resume_section(header, content, meta):
         "meta": meta
     }
     return section_chain.run(inputs)
+
+with open('test.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+    name = data.get('name', '')
+    contact = data.get('contact', {})
+    summary = data.get('summary', '')
+
+# Prepare the prompt for groq chat with name, contact, and summary
+personal_info_template = """
+Using the provided personal information, generate a professional resume introduction that is ATS Friendly.
+
+Name: {name}
+Contact:
+  Email: {email}
+  Phone: {phone}
+Summary: {summary}
+
+Generate a professional introduction that includes the name, contact information.
+Ensure the introduction is well-formatted and no line should exceed 40 words. and no additional text is added, only formatted resume content
+"""
+
+personal_info_prompt = PromptTemplate(
+    input_variables=["name", "email", "phone", "summary"],
+    template=personal_info_template
+)
+
+# Create a chain for personal information
+personal_info_chain = LLMChain(llm=llm, prompt=personal_info_prompt)
+
+# Generate the personal information section
+personal_info_section = personal_info_chain.run({
+    "name": name,
+    "email": contact.get('email', ''),
+    "phone": contact.get('phone', ''),
+    "summary": summary
+})
+
+# Now, extract education, projects, and experiences to pass to generate_resume_data
+sample_texts = []
+
+def extract_texts(section_data, key_name):
+    extracted_texts = []
+    if isinstance(section_data, list):
+        for item in section_data:
+            if isinstance(item, dict):
+                extracted_texts.append(item)
+    return extracted_texts
+
+education_texts = extract_texts(data.get('education', []), 'education')
+project_texts = extract_texts(data.get('projects', []), 'projects')
+experience_texts = extract_texts(data.get('experiences', []), 'experiences')
+
+# Combine all texts for generate_resume_data
+sample_texts.extend(education_texts)
+sample_texts.extend(project_texts)
+sample_texts.extend(experience_texts)
+
+# Generate resume data using the fine-tuned BERT model
+generated_resume_data = generate_resume_data([json.dumps(text) for text in sample_texts])
+
+# Map the generated resume data to the required format
+resume_data = {}
+for idx, (content, label) in enumerate(generated_resume_data):
+    section_key = f"section_{idx}"
+    resume_data[section_key] = {
+        "header": label.capitalize(),
+        "content": content,
+        "meta": label
+    }
+
+print(resume_data)
 # Generate each section of the resume
-experience_section = generate_resume_section(
-    resume_data["experience"]["header"],
-    resume_data["experience"]["content"],
-    resume_data["experience"]["meta"]
-)
-
-education_section = generate_resume_section(
-    resume_data["education"]["header"],
-    resume_data["education"]["content"],
-    resume_data["education"]["meta"]
-)
-
-knowledge_section = generate_resume_section(
-    resume_data["knowledge"]["header"],
-    resume_data["knowledge"]["content"],
-    resume_data["knowledge"]["meta"]
-)
-
-project_section = generate_resume_section(
-    resume_data["project"]["header"],
-    resume_data["project"]["content"],
-    resume_data["project"]["meta"]
-)
-
-others_section = generate_resume_section(
-    resume_data["others"]["header"],
-    resume_data["others"]["content"],
-    resume_data["others"]["meta"]
-)
+sections = {}
+for key, value in resume_data.items():
+    section_text = generate_resume_section(
+        value["header"],
+        value["content"],
+        value["meta"]
+    )
+    sections[key] = section_text
 
 # Combine all sections into the final resume
-final_resume = {
-    "experience": experience_section,
-    "education": education_section,
-    "knowledge": knowledge_section,
-    "project": project_section,
-    "others": others_section
-}
+final_resume = personal_info_section + "\n\n"
+for section in sections.values():
+    final_resume += section + "\n\n"
 
 # Save the generated resume as a JSON file
 with open('final_resume.json', 'w') as f:
-    json.dump(final_resume, f, indent=4)
-
-# Combine all sections into the final resume
-final_resume = f"""
-{experience_section}
-
-{education_section}
-
-{knowledge_section}
-
-{project_section}
-
-{others_section}
-"""
+    json.dump({"resume": final_resume}, f, indent=4)
 
 # Print the generated resume
 print(final_resume)
