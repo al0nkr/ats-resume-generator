@@ -1,0 +1,130 @@
+{
+  "name": "TUSHAR MISHRA",
+  "phone": "+91947847773",
+  "email": "tushar_mishra@gmail.com",
+  "linkedin": "",
+  "github": "",
+  "education": [
+    {
+      "institution": "Maharaja Surajmal Institute Of Technology",
+      "location": "",
+      "degree": "Bachelor of Technology - BTech",
+      "date": "2021-2025"
+    },
+    {
+      "institution": "Rishabh Public School",
+      "location": "India",
+      "degree": "",
+      "date": "April 2016 - July 2021"
+    },
+    {
+      "institution": "St. John's Model School",
+      "location": "",
+      "degree": "",
+      "date": "March 2007 - March 2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer Intern",
+      "company": "GoodSpace AI",
+      "location": "",
+      "date": "2024-10 - Present",
+      "bullets": [
+        "Currently contributing to the development of innovative software solutions"
+      ]
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Worklists.ai",
+      "location": "",
+      "date": "August 2024 - August 2024",
+      "bullets": []
+    },
+    {
+      "title": "App Developer",
+      "company": "",
+      "location": "",
+      "date": "February 2024 - July 2024",
+      "bullets": []
+    },
+    {
+      "title": "Software Developer Intern",
+      "company": "Ministry of Electronics and Information Technology",
+      "location": "",
+      "date": "August 2023 - August 2023",
+      "bullets": [
+        "Utilized skills in software development for a short-term internship period"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "2048 Game in Flutter",
+      "technologies": "Flutter",
+      "bullets": [
+        "Developed a 2048 game using Flutter, showcasing expertise in mobile app development and problem-solving skills"
+      ]
+    },
+    {
+      "name": "Blood-Chain",
+      "technologies": "",
+      "bullets": [
+        "Developed a comprehensive solution for blood donation and availability tracking",
+        "Successfully implemented a system for efficient blood donation management"
+      ]
+    },
+    {
+      "name": "Chat-With-Gemini",
+      "technologies": "Google Generative AI",
+      "bullets": [
+        "Simple chat application powered by Google Generative AI, enabling users to interact with AI models through typed prompts and receive corresponding responses"
+      ]
+    },
+    {
+      "name": "Doingly",
+      "technologies": "Dart, Flutter",
+      "bullets": [
+        "Developed a user-friendly app utilizing Dart programming language and Flutter framework, offering seamless and responsive user experience on both Android and IOS devices"
+      ]
+    },
+    {
+      "name": "Fruit Ninja Game in Flutter",
+      "technologies": "Flutter",
+      "bullets": [
+        "Developed a Fruit Ninja game utilizing Flutter framework",
+        "Successfully designed and implemented game features and functionality"
+      ]
+    },
+    {
+      "name": "Genius Lyrics",
+      "technologies": "",
+      "bullets": ["Downloaded song lyrics and metadata from Genius.com"]
+    },
+    {
+      "name": "Responsive Portfolio Website",
+      "technologies": "HTML, CSS, Bootstrap, JavaScript",
+      "bullets": [
+        "Developed a responsive portfolio website utilizing HTML, CSS, Bootstrap, and JavaScript"
+      ]
+    },
+    {
+      "name": "StriverSheetChallenge",
+      "technologies": "",
+      "bullets": [
+        "Solved problems from Striver's SDE Sheet during the challenge, demonstrating expertise in problem-solving and coding skills"
+      ]
+    },
+    {
+      "name": "Swadesh",
+      "technologies": "Flutter, Node.js",
+      "bullets": ["E-commerce Flutter Mobile App + Node.js Back End"]
+    }
+  ],
+  "skills": {
+    "Languages": ["Dart", "JavaScript", "HTML/CSS"],
+    "Frameworks": ["Flutter", "Node.js", "Bootstrap"],
+    "Developer Tools": [],
+    "Libraries": []
+  }
+}

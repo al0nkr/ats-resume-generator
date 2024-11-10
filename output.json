@@ -1,0 +1,176 @@
+{
+  "name": "TUSHAR MISHRA",
+  "address": [
+    "India"
+  ],
+  "contact": {
+    "email": null,
+    "phone": ""
+  },
+  "websites": [
+    {
+      "text": "GitHub",
+      "url": "https://github.com/MISHRA-TUSHAR",
+      "icon": "github"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://linkedin.com/in/mishratushar2004",
+      "icon": "linkedin"
+    }
+  ],
+  "summary": "👋🏽 Hi, My Name is Tushar Mishra\n\n🎓 Currently in Final Year to be grad with a Bachelor's of Technology in Electronics and Communication Engineering. \n\n🌇 New Delhi Native, with knowledge of creating Mobile Apps using Flutter.\n\n📚 Currently a final year student, always up for open-source collaboration and learning new things.",
+  "education": [
+    {
+      "school": "Maharaja Surajmal Institute Of Technology",
+      "degrees": [
+        {
+          "names": [
+            "Bachelor of Technology - BTech"
+          ],
+          "startdate": "2021-12",
+          "enddate": "2025-12",
+          "gpa": ""
+        }
+      ],
+      "achievements": []
+    },
+    {
+      "school": "Rishabh Public School - India",
+      "degrees": [
+        {
+          "names": [
+            ""
+          ],
+          "startdate": "2016-04",
+          "enddate": "2021-07",
+          "gpa": ""
+        }
+      ],
+      "achievements": []
+    },
+    {
+      "school": "St. John's Model school ",
+      "degrees": [
+        {
+          "names": [
+            ""
+          ],
+          "startdate": "2007-03",
+          "enddate": "2016-03",
+          "gpa": ""
+        }
+      ],
+      "achievements": []
+    }
+  ],
+  "experiences": [
+    {
+      "company": "GoodSpace AI",
+      "titles": [
+        {
+          "name": "Software Engineer Intern",
+          "startdate": "2024-10",
+          "enddate": null
+        }
+      ],
+      "highlights": []
+    },
+    {
+      "company": "Worklists.ai",
+      "titles": [
+        {
+          "name": "Software Engineer Intern",
+          "startdate": "2024-08",
+          "enddate": "2024-08"
+        }
+      ],
+      "highlights": []
+    },
+    {
+      "company": "Freelance",
+      "titles": [
+        {
+          "name": "App Developer",
+          "startdate": "2024-02",
+          "enddate": "2024-07"
+        }
+      ],
+      "highlights": []
+    },
+    {
+      "company": "Ministry of Electronics and Information Technology",
+      "titles": [
+        {
+          "name": "Software Developer Intern",
+          "startdate": "2023-08",
+          "enddate": "2023-08"
+        }
+      ],
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "2048",
+      "description": "2048 Game in Flutter"
+    },
+    {
+      "name": "blood-chain",
+      "description": "Solution for Blood Donation and Available"
+    },
+    {
+      "name": "Chat-With-Gemini",
+      "description": "This is a simple chat application named \"Gemini\", powered by Google Generative AI. Users can interact with the AI model by typing prompts, and the AI will respond accordingly."
+    },
+    {
+      "name": "Doingly",
+      "description": "Our App is your ultimate strength to be well organized and productive . With its stylish design and powerful features it will allow many users to easily interact with our app. Built using Dart programming language and Flutter framework ,it offers a seamless and responsive user experience on both Android and IOS devices."
+    },
+    {
+      "name": "Fruit-Ninja-Game",
+      "description": "Fruit Ninja Game in Flutter"
+    },
+    {
+      "name": "genius_lyrics",
+      "description": "Download song lyrics and metadata from Genius.com"
+    },
+    {
+      "name": "RESPONSIVE-PORTFOLIO",
+      "description": "A responsive portfolio website using HTML,CSS,BOOTSTRAP and JS."
+    },
+    {
+      "name": "StriverSheetChallenge",
+      "description": "This repo is a part of the Striver SDE Sheet Challenge. These problems have been solved by me from the Striver's SDE Sheet during this challenge."
+    },
+    {
+      "name": "Swadesh",
+      "description": "E-commerce Flutter Mobile App + Node.js Back End"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Technical",
+      "skills": [
+        "Debugging",
+        "Python",
+        "Go",
+        "Jupyter Notebook",
+        "CMake",
+        "CSS",
+        "Dart",
+        "C++",
+        "HTML",
+        "Makefile",
+        "JavaScript",
+        "Version Control",
+        "Mobile Application Development · Cloud Firestore · Flutter · Dart · Firebase",
+        "Postman API"
+      ]
+    },
+    {
+      "category": "Non-technical",
+      "skills": []
+    }
+  ]
+}

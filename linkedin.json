@@ -1,0 +1,823 @@
+{
+  "lastName": "Mishra",
+  "student": false,
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "entityUrn": "urn:li:fs_profile:ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8",
+  "headline": "SWE Intern @GoodSpace AI || App Developer || Full Stack Developer || Freelancer || Ex-Intern @MEITY || Final Year @MSIT",
+  "summary": "\ud83d\udc4b\ud83c\udffd Hi, My Name is Tushar Mishra\n\n\ud83c\udf93 Currently in Final Year to be grad with a Bachelor's of Technology in Electronics and Communication Engineering. \n\n\ud83c\udf07 New Delhi Native, with knowledge of creating Mobile Apps using Flutter.\n\n\ud83d\udcda Currently a final year student, always up for open-source collaboration and learning new things.",
+  "industryName": "Software Development",
+  "locationName": "India",
+  "geoCountryName": "India",
+  "elt": true,
+  "profilePictureOriginalImage": {
+    "com.linkedin.common.VectorImage": {
+      "artifacts": [
+        {
+          "width": 531,
+          "fileIdentifyingUrlPathSegment": "900_1200/profile-originalphoto-shrink_900_1200/0/1720542499317?m=AQLMQfaWjbVdPgAAAZMXA3oJKdp_EWhncMu2ZeBfum7qUP7yVzI4IOlL-A&e=1731344324&v=beta&t=IeHG85y5vcLr4_RYo4EnzKqGYWAh36RMbtouz5kmYFc",
+          "expiresAt": 1731344324000,
+          "height": 531
+        },
+        {
+          "width": 450,
+          "fileIdentifyingUrlPathSegment": "450_600/profile-originalphoto-shrink_450_600/0/1720542499317?m=AQK_o6NeLDdJigAAAZMXA3oKUdMBhjrbVjONrovO9pytB797fPrtwcJ9tg&e=1731344324&v=beta&t=1xzabjr_NKBVH1MeozD4ikBIbTzdSTVKPP6xbrAS2_4",
+          "expiresAt": 1731344324000,
+          "height": 450
+        }
+      ],
+      "rootUrl": "https://www.linkedin.com/dms/prv/image/v2/D5604AQE1tUlf3MQgUQ/profile-originalphoto-shrink_"
+    }
+  },
+  "birthDate": {
+    "month": 6,
+    "day": 22
+  },
+  "industryUrn": "urn:li:fs_industry:4",
+  "firstName": "Tushar",
+  "profilePicture": {
+    "displayImage": "urn:li:digitalmediaAsset:D5603AQHN6m1mu0Wh4A",
+    "originalImage": "urn:li:digitalmediaAsset:D5604AQE1tUlf3MQgUQ",
+    "photoFilterEditInfo": {
+      "bottomLeft": {
+        "x": 0.0022965222597122192,
+        "y": 0.999055027961731
+      },
+      "saturation": 0.0,
+      "brightness": 0.0,
+      "vignette": 0.0,
+      "photoFilterType": "ORIGINAL",
+      "bottomRight": {
+        "x": 0.9943587183952332,
+        "y": 0.999055027961731
+      },
+      "topLeft": {
+        "x": 0.0022965222597122192,
+        "y": 0.006992917507886887
+      },
+      "contrast": 0.0,
+      "topRight": {
+        "x": 0.9943587183952332,
+        "y": 0.006992917507886887
+      }
+    }
+  },
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:106187582",
+    "postalCode": "110054"
+  },
+  "geoLocationName": "Delhi",
+  "location": {
+    "basicLocation": {
+      "countryCode": "in",
+      "postalCode": "110054"
+    }
+  },
+  "backgroundPicture": {
+    "displayImage": "urn:li:digitalmediaAsset:D5616AQGmAPwKDxnG-A",
+    "originalImage": "urn:li:digitalmediaAsset:D5604AQHGolU2EeU9UQ",
+    "photoFilterEditInfo": {
+      "bottomLeft": {
+        "x": 0.0,
+        "y": 0.75
+      },
+      "saturation": 0.0,
+      "brightness": 0.0,
+      "vignette": 0.0,
+      "photoFilterType": "ORIGINAL",
+      "bottomRight": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "topLeft": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "contrast": 0.0,
+      "topRight": {
+        "x": 1.0,
+        "y": 0.0
+      }
+    }
+  },
+  "backgroundPictureOriginalImage": {
+    "com.linkedin.common.VectorImage": {
+      "artifacts": [
+        {
+          "width": 1188,
+          "fileIdentifyingUrlPathSegment": "396_1584/profile-originalbackgroundimage-shrink_396_1584/0/1730282384139?m=AQI5zRWHD5falwAAAZMXA3oLnwMlbT05S9WFID7e-BQ3HiBU7y7ivdZz7A&e=1731344324&v=beta&t=pONwRa2fFZQ9edgtqvSyDp5VS5o2pDWi6HgsEmzwTyw",
+          "expiresAt": 1731344324000,
+          "height": 396
+        },
+        {
+          "width": 600,
+          "fileIdentifyingUrlPathSegment": "200_800/profile-originalbackgroundimage-shrink_200_800/0/1730282384139?m=AQLDRMpPLOuzcAAAAZMXA3oLnL3EcxCBiR01MQD8M-fdScZeDzHHV0TXvw&e=1731344324&v=beta&t=5ewfJPKfrpkZlWykgIuDsYyPSvC370M-OFS8wUxByZQ",
+          "expiresAt": 1731344324000,
+          "height": 200
+        }
+      ],
+      "rootUrl": "https://www.linkedin.com/dms/prv/image/v2/D5604AQHGolU2EeU9UQ/profile-originalbackgroundimage-shrink_"
+    }
+  },
+  "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHN6m1mu0Wh4A/profile-displayphoto-shrink_",
+  "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1720542499375?e=1736985600&v=beta&t=NRRt21KW8om-zDqaRVcCw7CAU0k9ZdkCTJoMqRj276o",
+  "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1720542499375?e=1736985600&v=beta&t=R_ycQpTOISLTQ0-pFc2fRxbz_8s8fJWoIw4KZMc7sHw",
+  "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1720542499375?e=1736985600&v=beta&t=3NsjvjjS_yemm_X5jlWB9MHm0spoYbbz_GLOzg5f-aQ",
+  "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1720542499400?e=1736985600&v=beta&t=u5UXST382hN4N3PgXjd2y6NpZyCL7YVMBugjfCtbvJs",
+  "profile_id": "ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8",
+  "member_urn": "urn:li:member:949326383",
+  "public_id": "mishratushar2004",
+  "experience": [
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,2492532960)",
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "GoodSpace AI",
+      "timePeriod": {
+        "startDate": {
+          "month": 10,
+          "year": 2024
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 11,
+          "end": 50
+        },
+        "industries": [
+          "Information Technology and Services"
+        ]
+      },
+      "title": "Software Engineer Intern",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:26593922",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGpVbJwZuVWXg/company-logo_"
+    },
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,2492533856)",
+      "companyName": "Worklists.ai",
+      "timePeriod": {
+        "endDate": {
+          "month": 8,
+          "year": 2024
+        },
+        "startDate": {
+          "month": 8,
+          "year": 2024
+        }
+      },
+      "title": "Software Engineer Intern"
+    },
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,2415447525)",
+      "companyName": "Freelance",
+      "timePeriod": {
+        "endDate": {
+          "month": 7,
+          "year": 2024
+        },
+        "startDate": {
+          "month": 2,
+          "year": 2024
+        }
+      },
+      "title": "App Developer"
+    },
+    {
+      "locationName": "Noida, Uttar Pradesh, India",
+      "entityUrn": "urn:li:fs_position:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,2223265758)",
+      "geoLocationName": "Noida, Uttar Pradesh, India",
+      "geoUrn": "urn:li:fs_geo:104869687",
+      "companyName": "Ministry of Electronics and Information Technology",
+      "timePeriod": {
+        "endDate": {
+          "month": 8,
+          "year": 2023
+        },
+        "startDate": {
+          "month": 8,
+          "year": 2023
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 201,
+          "end": 500
+        },
+        "industries": [
+          "Government Administration"
+        ]
+      },
+      "title": "Software Developer Intern",
+      "region": "urn:li:fs_region:(in,7392)",
+      "companyUrn": "urn:li:fs_miniCompany:39291128",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHHg2ha4hH90Q/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,766818082)",
+      "school": {
+        "objectUrn": "urn:li:school:40752",
+        "entityUrn": "urn:li:fs_miniSchool:40752",
+        "active": true,
+        "schoolName": "Maharaja Surajmal Institute Of Technology",
+        "trackingId": "1yUX03l7TEqPlIP/RmrXAA==",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGEz3nFf8Gzrw/company-logo_"
+      },
+      "timePeriod": {
+        "endDate": {
+          "month": 12,
+          "year": 2025
+        },
+        "startDate": {
+          "month": 12,
+          "year": 2021
+        }
+      },
+      "degreeName": "Bachelor of Technology - BTech",
+      "schoolName": "Maharaja Surajmal Institute Of Technology",
+      "fieldOfStudy": " Electronics and Communications Engineering",
+      "degreeUrn": "urn:li:fs_degree:250",
+      "schoolUrn": "urn:li:fs_miniSchool:40752"
+    },
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,769634844)",
+      "school": {
+        "objectUrn": "urn:li:school:3238489",
+        "entityUrn": "urn:li:fs_miniSchool:3238489",
+        "active": true,
+        "schoolName": "Rishabh Public School - India",
+        "trackingId": "QNOXE/0BRS+lMqTyIjDhnA=="
+      },
+      "timePeriod": {
+        "endDate": {
+          "month": 7,
+          "year": 2021
+        },
+        "startDate": {
+          "month": 4,
+          "year": 2016
+        }
+      },
+      "schoolName": "Rishabh Public School - India",
+      "schoolUrn": "urn:li:fs_miniSchool:3238489"
+    },
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8,775221849)",
+      "school": {
+        "objectUrn": "urn:li:school:3235867",
+        "entityUrn": "urn:li:fs_miniSchool:3235867",
+        "active": true,
+        "schoolName": "St. John's Public School - India",
+        "trackingId": "GuM+9H3YQL+lbyncsjOfIQ==",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGPWy-gUQmjgw/company-logo_"
+      },
+      "timePeriod": {
+        "endDate": {
+          "month": 3,
+          "year": 2016
+        },
+        "startDate": {
+          "month": 3,
+          "year": 2007
+        }
+      },
+      "schoolName": "St. John's Model school ",
+      "schoolUrn": "urn:li:fs_miniSchool:3235867"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [
+    {
+      "authority": "Delhi Technological University (Formerly DCE)",
+      "name": "Vihaan 6.0",
+      "timePeriod": {
+        "startDate": {
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "company": {
+        "objectUrn": "urn:li:company:31053886",
+        "entityUrn": "urn:li:fs_miniCompany:31053886",
+        "name": "Delhi Technological University (Formerly DCE)",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630645745347/delhi_technological_university_formerly_dce_logo?e=1739404800&v=beta&t=w734ZCWg53GfH-CvuTF2cRzw0c02LbQce_UQLgyRN2Q",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630645745347/delhi_technological_university_formerly_dce_logo?e=1739404800&v=beta&t=yfYJVC_x9-4ehOs95iOEDwWztV0A0BoIagP3pplZ0zQ",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630645745347/delhi_technological_university_formerly_dce_logo?e=1739404800&v=beta&t=WL7JwG-kREUA4ldHsDD0Ey5cIpopXI98Nh2g9iwBGrc",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGPpNIWlymSxg/company-logo_"
+          }
+        },
+        "universalName": "delhi-technological-university-formerly-dce",
+        "dashCompanyUrn": "urn:li:fsd_company:31053886",
+        "trackingId": "si1/B/HJTOW/IqMFQ1ZXnA=="
+      },
+      "displaySource": "givemycertificate.com",
+      "companyUrn": "urn:li:fs_miniCompany:31053886",
+      "url": "https://verification.givemycertificate.com/v/55b7cc1a-79e1-4154-9c26-a81c05dbd377"
+    },
+    {
+      "authority": "CyberHavoc",
+      "name": "CyberHavoc CTF",
+      "timePeriod": {
+        "startDate": {
+          "month": 4,
+          "year": 2023
+        }
+      },
+      "displaySource": "givemycertificate.com",
+      "url": "https://verification.givemycertificate.com/v/309ea764-ba4b-46d0-83a1-1948d0156088"
+    },
+    {
+      "authority": "Google Cloud Skills Boost",
+      "name": "Create and Manage Cloud Resources",
+      "timePeriod": {
+        "startDate": {
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "licenseNumber": "4405474",
+      "company": {
+        "objectUrn": "urn:li:company:87376675",
+        "entityUrn": "urn:li:fs_miniCompany:87376675",
+        "name": "Google Cloud Skills Boost",
+        "showcase": false,
+        "active": false,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1668405290464?e=1739404800&v=beta&t=Fsq2kJsuikqr5XmPZzudNOfeBgO3xlW6a89DEKhfcOo",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1668405290464?e=1739404800&v=beta&t=afBXhLc7_-w3n4_R9XkVVOdOjd-fad6egi9au9-D7FA",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1668405290464?e=1739404800&v=beta&t=4SZVFeUHnVpuio32q1e5S7NIkh7xJ-XGFd5QiiJ2Wag",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFQvhMNUtax7g/company-logo_"
+          }
+        },
+        "universalName": "google-cloud-skills-boost",
+        "dashCompanyUrn": "urn:li:fsd_company:87376675",
+        "trackingId": "gM8y32vETui/OMM3H1u+Qw=="
+      },
+      "displaySource": "cloudskillsboost.google",
+      "companyUrn": "urn:li:fs_miniCompany:87376675",
+      "url": "https://www.cloudskillsboost.google/public_profiles/51b3225f-e509-4dce-969a-3772697318f9/badges/4405474?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
+    },
+    {
+      "authority": "Google Cloud Skills Boost",
+      "name": "Getting Started with Go on Google Cloud",
+      "timePeriod": {
+        "startDate": {
+          "month": 7,
+          "year": 2023
+        }
+      },
+      "licenseNumber": "4433317",
+      "company": {
+        "objectUrn": "urn:li:company:87376675",
+        "entityUrn": "urn:li:fs_miniCompany:87376675",
+        "name": "Google Cloud Skills Boost",
+        "showcase": false,
+        "active": false,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1668405290464?e=1739404800&v=beta&t=Fsq2kJsuikqr5XmPZzudNOfeBgO3xlW6a89DEKhfcOo",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1668405290464?e=1739404800&v=beta&t=afBXhLc7_-w3n4_R9XkVVOdOjd-fad6egi9au9-D7FA",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1668405290464?e=1739404800&v=beta&t=4SZVFeUHnVpuio32q1e5S7NIkh7xJ-XGFd5QiiJ2Wag",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFQvhMNUtax7g/company-logo_"
+          }
+        },
+        "universalName": "google-cloud-skills-boost",
+        "dashCompanyUrn": "urn:li:fsd_company:87376675",
+        "trackingId": "A80yA7HxTqiiIbqckvSMlA=="
+      },
+      "displaySource": "cloudskillsboost.google",
+      "companyUrn": "urn:li:fs_miniCompany:87376675",
+      "url": "https://www.cloudskillsboost.google/public_profiles/51b3225f-e509-4dce-969a-3772697318f9/badges/4433317?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
+    },
+    {
+      "authority": "Microsoft",
+      "name": "AppDev Cohort 1.0",
+      "timePeriod": {
+        "startDate": {
+          "month": 8,
+          "year": 2023
+        }
+      },
+      "company": {
+        "objectUrn": "urn:li:company:1035",
+        "entityUrn": "urn:li:fs_miniCompany:1035",
+        "name": "Microsoft",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1739404800&v=beta&t=gUTtDlBQARDxMqk-4O2elb8i6EchXcAqsl6S_wt-pDE",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1739404800&v=beta&t=wW_r5JFCUe76udPbiQt-XnggmBT5OW_YfZJBKhN1CKU",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630652622688/microsoft_logo?e=1739404800&v=beta&t=X6cnEDNmWhs2HEyUMbKwUZRVWn9uNqvQ6t_9pa9xVJ4",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_"
+          }
+        },
+        "universalName": "microsoft",
+        "dashCompanyUrn": "urn:li:fsd_company:1035",
+        "trackingId": "aY045izgTHiO6AYdxvZkwA=="
+      },
+      "displaySource": "reskilll.com",
+      "companyUrn": "urn:li:fs_miniCompany:1035",
+      "url": "https://reskilll.com/certificate/appdev/cohort1/0a18b8e940"
+    },
+    {
+      "authority": "HackerRank",
+      "name": "HackerRank Intermediate Problem Solver",
+      "timePeriod": {
+        "startDate": {
+          "month": 8,
+          "year": 2023
+        }
+      },
+      "licenseNumber": "dc211a5991c2",
+      "company": {
+        "objectUrn": "urn:li:company:435210",
+        "entityUrn": "urn:li:fs_miniCompany:435210",
+        "name": "HackerRank",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1705561459405/hackerrank_logo?e=1739404800&v=beta&t=fZbMWw9I7B4elHnFAC6lLc2wLoIuiH8l6nv05EOIesE",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1739404800&v=beta&t=QWd1mZIOQabe6itp3YQzRxhYBsKReSsP5u03FVYkiZU",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1705561459405/hackerrank_logo?e=1739404800&v=beta&t=CA9Cl4PMLlFeQw9AKHPQ9IC_fIWjzrr8BaoSkG-WC2A",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_"
+          }
+        },
+        "universalName": "hackerrank",
+        "dashCompanyUrn": "urn:li:fsd_company:435210",
+        "trackingId": "dRtulNDWQY+zV82pSphhfg=="
+      },
+      "displaySource": "hackerrank.com",
+      "companyUrn": "urn:li:fs_miniCompany:435210",
+      "url": "https://www.hackerrank.com/certificates/iframe/dc211a5991c2"
+    },
+    {
+      "authority": "Rajasthan Police",
+      "name": "Rajasthan police hackathon 1.0",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2024
+        }
+      },
+      "company": {
+        "objectUrn": "urn:li:company:33669126",
+        "entityUrn": "urn:li:fs_miniCompany:33669126",
+        "name": "Rajasthan Police",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630619363996/rajasthan_police_logo?e=1739404800&v=beta&t=sEYK1ObbEirk-6wPWehUxJpSaoj-W_05A-LRguHxba8",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630619363996/rajasthan_police_logo?e=1739404800&v=beta&t=-qGmZVx7vHhopD1F8fePKKtcklrI2XYzqzHXwpFMksU",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630619363997/rajasthan_police_logo?e=1739404800&v=beta&t=uy3u-iVAj5uioK0iz4TgN4uetDToxLz7yvY_3AegC0Y",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQE3Stw8hXoD9A/company-logo_"
+          }
+        },
+        "universalName": "rajasthan-police",
+        "dashCompanyUrn": "urn:li:fsd_company:33669126",
+        "trackingId": "Ocb+ARkRSjiYnWVLfcxJ2w=="
+      },
+      "companyUrn": "urn:li:fs_miniCompany:33669126"
+    },
+    {
+      "authority": "Postman",
+      "name": "Postman Student Expert",
+      "timePeriod": {
+        "startDate": {
+          "month": 2,
+          "year": 2024
+        }
+      },
+      "company": {
+        "objectUrn": "urn:li:company:3795851",
+        "entityUrn": "urn:li:fs_miniCompany:3795851",
+        "name": "Postman",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1654794308958/postman_platform_logo?e=1739404800&v=beta&t=ms9Ep6wyHJxDG3ZH8nyaOiwIizbnjFOzsUxWUL2QPpI",
+                "expiresAt": 1739404800000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=1739404800&v=beta&t=pnnT7RFdEvP3WIzaGXyoHrKnOenEVmkTUo9CpyBkjJA",
+                "expiresAt": 1739404800000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1654794308958/postman_platform_logo?e=1739404800&v=beta&t=1S3kGjOfUqd_4BK1qiapRRe7YGkrvJn1MkrtmI-rfS8",
+                "expiresAt": 1739404800000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_"
+          }
+        },
+        "universalName": "postman-platform",
+        "dashCompanyUrn": "urn:li:fsd_company:3795851",
+        "trackingId": "5cObdWVbTy+Y4X3khu/Zmg=="
+      },
+      "displaySource": "badgr.com",
+      "companyUrn": "urn:li:fs_miniCompany:3795851",
+      "url": "https://badgr.com/public/assertions/lft4CQKyQjWBUGxfcKmZEg?identity__email=mishratushar8890@gmail.com"
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "Operations Manager",
+      "companyName": "GDSC MSIT (Delhi)",
+      "timePeriod": {
+        "endDate": {
+          "month": 7,
+          "year": 2023
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2022
+        }
+      },
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": {
+        "miniCompany": {
+          "objectUrn": "urn:li:company:88657476",
+          "entityUrn": "urn:li:fs_miniCompany:88657476",
+          "name": "GDSC MSIT (Delhi)",
+          "showcase": false,
+          "active": true,
+          "logo": {
+            "com.linkedin.common.VectorImage": {
+              "artifacts": [
+                {
+                  "width": 200,
+                  "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1663959288022?e=1739404800&v=beta&t=NqB49teoAHJxSYiDGNOgyXvM_rdPHv_kySTjR_gueTI",
+                  "expiresAt": 1739404800000,
+                  "height": 200
+                },
+                {
+                  "width": 100,
+                  "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1663959288022?e=1739404800&v=beta&t=0hSm7ZG3kscZcKLbjW8kQ__xCn2ZnwieSqE3mwx3tAc",
+                  "expiresAt": 1739404800000,
+                  "height": 100
+                },
+                {
+                  "width": 400,
+                  "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1663959288022?e=1739404800&v=beta&t=DGqArMQWdNvR2CzFPRzJdsa8gZLJ6-1JQz_Tk1ujqJc",
+                  "expiresAt": 1739404800000,
+                  "height": 400
+                }
+              ],
+              "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFu-aHz2YIvqw/company-logo_"
+            }
+          },
+          "universalName": "gdsc-msit-delhi",
+          "dashCompanyUrn": "urn:li:fsd_company:88657476",
+          "trackingId": "Pn7svP5cS9aSSorrOIRKUA=="
+        }
+      },
+      "companyUrn": "urn:li:fs_miniCompany:88657476"
+    },
+    {
+      "role": "Member of Activity Team",
+      "companyName": "IIC MSIT",
+      "timePeriod": {
+        "endDate": {
+          "month": 3,
+          "year": 2024
+        },
+        "startDate": {
+          "month": 12,
+          "year": 2022
+        }
+      },
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": {
+        "miniCompany": {
+          "objectUrn": "urn:li:company:79630768",
+          "entityUrn": "urn:li:fs_miniCompany:79630768",
+          "name": "IIC MSIT",
+          "showcase": false,
+          "active": true,
+          "logo": {
+            "com.linkedin.common.VectorImage": {
+              "artifacts": [
+                {
+                  "width": 200,
+                  "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630625846708/iic_msit_logo?e=1739404800&v=beta&t=ehhTJ0m2vD5HRrw8hblqu5DUuQkhP3z3srOzKj_YdpA",
+                  "expiresAt": 1739404800000,
+                  "height": 200
+                },
+                {
+                  "width": 100,
+                  "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630625846708/iic_msit_logo?e=1739404800&v=beta&t=2VQlNkEktGgp0fF1YnC8CSGYvxEHvZK5Uj_ju6a_KdU",
+                  "expiresAt": 1739404800000,
+                  "height": 100
+                },
+                {
+                  "width": 400,
+                  "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630625846708/iic_msit_logo?e=1739404800&v=beta&t=15CtA30byddnUYUfqkK9y5iTdZm15Oq_DloWcxrIK1A",
+                  "expiresAt": 1739404800000,
+                  "height": 400
+                }
+              ],
+              "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHewb0PQCwyOg/company-logo_"
+            }
+          },
+          "universalName": "iic-msit",
+          "dashCompanyUrn": "urn:li:fsd_company:79630768",
+          "trackingId": "oqXh++vxQne0zR+hEyTURQ=="
+        }
+      },
+      "companyUrn": "urn:li:fs_miniCompany:79630768"
+    },
+    {
+      "role": "Activity Coordinator",
+      "companyName": "IIC MSIT",
+      "timePeriod": {
+        "endDate": {
+          "month": 10,
+          "year": 2024
+        },
+        "startDate": {
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "company": {
+        "miniCompany": {
+          "objectUrn": "urn:li:company:79630768",
+          "entityUrn": "urn:li:fs_miniCompany:79630768",
+          "name": "IIC MSIT",
+          "showcase": false,
+          "active": true,
+          "logo": {
+            "com.linkedin.common.VectorImage": {
+              "artifacts": [
+                {
+                  "width": 200,
+                  "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630625846708/iic_msit_logo?e=1739404800&v=beta&t=ehhTJ0m2vD5HRrw8hblqu5DUuQkhP3z3srOzKj_YdpA",
+                  "expiresAt": 1739404800000,
+                  "height": 200
+                },
+                {
+                  "width": 100,
+                  "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630625846708/iic_msit_logo?e=1739404800&v=beta&t=2VQlNkEktGgp0fF1YnC8CSGYvxEHvZK5Uj_ju6a_KdU",
+                  "expiresAt": 1739404800000,
+                  "height": 100
+                },
+                {
+                  "width": 400,
+                  "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630625846708/iic_msit_logo?e=1739404800&v=beta&t=15CtA30byddnUYUfqkK9y5iTdZm15Oq_DloWcxrIK1A",
+                  "expiresAt": 1739404800000,
+                  "height": 400
+                }
+              ],
+              "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHewb0PQCwyOg/company-logo_"
+            }
+          },
+          "universalName": "iic-msit",
+          "dashCompanyUrn": "urn:li:fsd_company:79630768",
+          "trackingId": "eWGv+qXeQ7+p1ujYVziGiQ=="
+        }
+      },
+      "companyUrn": "urn:li:fs_miniCompany:79630768"
+    }
+  ],
+  "honors": [],
+  "projects": [],
+  "skills": [
+    {
+      "name": "Version Control"
+    },
+    {
+      "name": "Debugging"
+    },
+    {
+      "name": "Postman API"
+    },
+    {
+      "name": "Mobile Application Development \u00b7 Cloud Firestore \u00b7 Flutter \u00b7 Dart \u00b7 Firebase"
+    }
+  ],
+  "urn_id": "ACoAADiVki8B29yAnl7G8WSTryPCIx8DC6eZZT8"
+}

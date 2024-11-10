@@ -1,0 +1,501 @@
+{
+  "basic_info": {
+    "login": "MISHRA-TUSHAR",
+    "id": 109910958,
+    "node_id": "U_kgDOBo0brg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/109910958?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MISHRA-TUSHAR",
+    "html_url": "https://github.com/MISHRA-TUSHAR",
+    "followers_url": "https://api.github.com/users/MISHRA-TUSHAR/followers",
+    "following_url": "https://api.github.com/users/MISHRA-TUSHAR/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MISHRA-TUSHAR/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MISHRA-TUSHAR/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MISHRA-TUSHAR/subscriptions",
+    "organizations_url": "https://api.github.com/users/MISHRA-TUSHAR/orgs",
+    "repos_url": "https://api.github.com/users/MISHRA-TUSHAR/repos",
+    "events_url": "https://api.github.com/users/MISHRA-TUSHAR/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MISHRA-TUSHAR/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "TUSHAR MISHRA",
+    "company": "@dscmsit",
+    "blog": "tushar22.tech",
+    "location": "India",
+    "email": null,
+    "hireable": null,
+    "bio": "Flutter Developer",
+    "twitter_username": "Tushar2004_",
+    "public_repos": 56,
+    "public_gists": 0,
+    "followers": 15,
+    "following": 24,
+    "created_at": "2022-07-24T14:47:42Z",
+    "updated_at": "2024-10-27T15:18:45Z"
+  },
+  "repositories": [
+    {
+      "name": "2048",
+      "description": "2048 Game in Flutter",
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-10-27T06:36:33Z"
+    },
+    {
+      "name": "Amazon-Clone-flutter-",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-29T06:37:59Z"
+    },
+    {
+      "name": "Attendance-Tracker",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-28T02:59:08Z"
+    },
+    {
+      "name": "Basic-JavaScript-projects",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-24T13:59:57Z"
+    },
+    {
+      "name": "blogster",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-03-25T18:04:13Z"
+    },
+    {
+      "name": "blood-chain",
+      "description": "Solution for Blood Donation and Available",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 3,
+      "last_updated": "2024-06-30T04:41:50Z"
+    },
+    {
+      "name": "Chat-With-Gemini",
+      "description": "This is a simple chat application named \"Gemini\", powered by Google Generative AI. Users can interact with the AI model by typing prompts, and the AI will respond accordingly.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-02-24T06:25:00Z"
+    },
+    {
+      "name": "Cohort-App1",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-21T20:31:28Z"
+    },
+    {
+      "name": "Country-Information-Flutter-App-Cohort1.0",
+      "description": null,
+      "language": "CMake",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-26T13:33:27Z"
+    },
+    {
+      "name": "Custom-Image-Cloud-Storage",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-09T05:32:36Z"
+    },
+    {
+      "name": "dictionary",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-20T02:39:12Z"
+    },
+    {
+      "name": "Discord-clone",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-24T13:54:24Z"
+    },
+    {
+      "name": "discord-greeting-bot",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-05-11T11:45:37Z"
+    },
+    {
+      "name": "Doingly",
+      "description": "Our App is your ultimate strength to be well organized and productive . With its stylish design and powerful features it will allow many users to easily interact with our app. Built using Dart programming language and Flutter framework ,it offers a seamless and responsive user experience on both Android and\u00a0IOS\u00a0devices.",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-10-08T06:16:18Z"
+    },
+    {
+      "name": "Facts-Website",
+      "description": null,
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-10-18T11:46:14Z"
+    },
+    {
+      "name": "Fit-Diet-Backend",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-18T03:56:51Z"
+    },
+    {
+      "name": "Flutter-Image-Search",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-30T18:46:43Z"
+    },
+    {
+      "name": "Fruit-Ninja-Game",
+      "description": "Fruit Ninja Game in Flutter",
+      "language": "Makefile",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-12-11T04:01:21Z"
+    },
+    {
+      "name": "genius_lyrics",
+      "description": "Download song lyrics and metadata from Genius.com",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-10-23T04:48:56Z"
+    },
+    {
+      "name": "Go-Game-Score-API",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-05-27T15:18:02Z"
+    },
+    {
+      "name": "golang-jwt",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-03-13T15:20:58Z"
+    },
+    {
+      "name": "Golang-Projects",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-05-15T14:57:58Z"
+    },
+    {
+      "name": "HacktoberFest-23-AppDev",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-09-23T18:45:06Z"
+    },
+    {
+      "name": "Image-Resizer-Electron",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-08-18T11:06:29Z"
+    },
+    {
+      "name": "indian-college-api",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-07-12T06:33:41Z"
+    },
+    {
+      "name": "k0nnect",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-10-15T05:40:28Z"
+    },
+    {
+      "name": "LOGIN-FORM",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-07-25T04:47:11Z"
+    },
+    {
+      "name": "LOGIN-PAGE",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-07-24T14:56:42Z"
+    },
+    {
+      "name": "Login-page-Ui-appdev-cohort",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-21T19:46:32Z"
+    },
+    {
+      "name": "Midjourney-Flutter",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-02-29T15:31:10Z"
+    },
+    {
+      "name": "MISHRA-TUSHAR",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-08-10T06:36:43Z"
+    },
+    {
+      "name": "Netflix-clone",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-07-24T14:03:06Z"
+    },
+    {
+      "name": "News-App-Flutter-",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-11-21T13:39:25Z"
+    },
+    {
+      "name": "NoteSync",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-14T13:55:10Z"
+    },
+    {
+      "name": "NumQuiz-Flutter",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-01-26T15:44:01Z"
+    },
+    {
+      "name": "PATH-VISUALIZER",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-08-17T10:40:20Z"
+    },
+    {
+      "name": "PORTFOLIO",
+      "description": null,
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-08-08T15:10:26Z"
+    },
+    {
+      "name": "RESPONSIVE-PORTFOLIO",
+      "description": "A responsive portfolio website using HTML,CSS,BOOTSTRAP and JS.",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-08-16T05:25:41Z"
+    },
+    {
+      "name": "restaurant-management-backend",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-05-31T04:00:22Z"
+    },
+    {
+      "name": "RJPOLICE_HACK_575_ASTITVA_4",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2023-12-26T19:15:11Z"
+    },
+    {
+      "name": "rss",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-02-11T10:53:43Z"
+    },
+    {
+      "name": "Sapphire-Bay",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-09-15T05:12:24Z"
+    },
+    {
+      "name": "StriverSheetChallenge",
+      "description": "This repo is a part of the Striver SDE Sheet Challenge. These problems have been solved by me from the Striver's SDE Sheet during this challenge.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 3,
+      "last_updated": "2024-07-15T03:27:03Z"
+    },
+    {
+      "name": "SUR",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-07-14T05:42:48Z"
+    },
+    {
+      "name": "Swadesh",
+      "description": "E-commerce Flutter Mobile App + Node.js Back End",
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-08T04:27:56Z"
+    },
+    {
+      "name": "TicTacToe",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-23T04:41:43Z"
+    },
+    {
+      "name": "tushar22.github.io",
+      "description": null,
+      "language": "HTML",
+      "stars": 0,
+      "forks": 2,
+      "last_updated": "2024-11-08T10:00:58Z"
+    },
+    {
+      "name": "twitter",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-05-06T13:59:17Z"
+    },
+    {
+      "name": "UBC-Assignment",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-06T08:49:16Z"
+    },
+    {
+      "name": "Video-Call-App",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-02-02T14:52:22Z"
+    },
+    {
+      "name": "video-conference",
+      "description": null,
+      "language": "Dart",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-08-11T13:48:58Z"
+    },
+    {
+      "name": "video-conferencing-golang",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-07-12T06:32:12Z"
+    },
+    {
+      "name": "Weather-App",
+      "description": null,
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-09-14T15:12:27Z"
+    },
+    {
+      "name": "webRTC",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-06-16T04:37:53Z"
+    },
+    {
+      "name": "Wed-website",
+      "description": null,
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2022-09-14T15:23:01Z"
+    },
+    {
+      "name": "YT-playlist-length-calculator",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "last_updated": "2024-05-09T06:19:00Z"
+    }
+  ],
+  "languages": {
+    "C++": 8,
+    "Dart": 13,
+    "CSS": 6,
+    "JavaScript": 6,
+    "CMake": 1,
+    "Go": 8,
+    "HTML": 6,
+    "Makefile": 1,
+    "Jupyter Notebook": 1,
+    "Python": 1
+  },
+  "profile_readme": "![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)<h1 align=\"center\">Hi \ud83d\udc4b, I'm TUSHAR MISHRA</h1>\n[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Flutter+Developer+by+Day+;Overthinker+by+Night)](https://git.io/typing-svg)\n\n<h3 align=\"center\">Final year @MSIT</h3>\n<img align=\"right\" alt=\"Coding\" width=\"400\" src=\"https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg\">\n\n<p align=\"left\"> <img src=\"https://komarev.com/ghpvc/?username=mishra-tushar&label=Profile%20views&color=0e75b6&style=flat\" alt=\"mishra-tushar\" /> </p>\n\n<p align=\"left\"> <a href=\"https://twitter.com/tushar2004_\" target=\"blank\"><img src=\"https://img.shields.io/twitter/follow/tushar2004_?logo=twitter&style=for-the-badge\" alt=\"tushar2004_\" /></a> </p>\n\n- \ud83c\udf31 I\u2019m currently learning **Node.Js**\n\n- \ud83d\udceb How to reach me **mishratushar8890@gmail.com**\n\n- \u26a1 Fun fact **Talk is Cheap Show me the Code**\n\n<h3 align=\"left\">Connect with me: </h3>\n<p align=\"left\">\n<a href=\"https://twitter.com/tushar2004_\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg\" alt=\"tushar2004_\" height=\"30\" width=\"40\" /></a>\n<a href=\"https://linkedin.com/in/mishratushar2004/\" target=\"blank\"><img align=\"center\" src=\"https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg\" alt=\"tushar mishra\" height=\"30\" width=\"40\" /></a>\n\n</p>\n\n### <img src=\"https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif\" width=\"50\"> A little more about me...  \n\n```yaml\napiVersion: v2.0\nkind: Human\n\nmetadata:\n  name: tushar mishra\n\nexperience:\n  company: CDAC (MEITY)\n  role : Software Engineering Intern\n  work: Built iVEDA mobile application\n\ntechnologies:\n  App Dev : Flutter , Dart\n  FrontEnd : ReactJs \n  BackEnd : Golang , Node.js , Firebase\n   \n```\n[![MISHRA-TUSHAR's GitHub | Stats](https://stats.quine.sh/MISHRA-TUSHAR/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MISHRA-TUSHAR)\n\n<p align=\"center\">\n\n**Languages and Tools:**\n  \n  <a href=\"https://skillicons.dev\">\n    <img src=\"https://skillicons.dev/icons?i=git,bootstrap,c,vercel,netlify,cpp,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,flutter,dart,go,kotlin,electron js,google cloud,vscode&perline=18\" />\n  </a>\n</p>\n\n[![MISHRA-TUSHAR's GitHub | Languages Over Time](https://stats.quine.sh/MISHRA-TUSHAR/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MISHRA-TUSHAR)\n\n<!--<p><img align=\"left\" src=\"https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mishra-tushar&show_icons=true&locale=en&layout=compact\" alt=\"mishra-tushar\" /></p>-->\n\n<p>&nbsp;<img align=\"center\" src=\"https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mishra-tushar&show_icons=true&locale=en\" alt=\"mishra-tushar\" /></p>\n\n<p><img align=\"center\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=mishra-tushar&\" alt=\"mishra-tushar\"  /></p>\n",
+  "scraped_at": "2024-11-10T22:24:08.211228"
+}
