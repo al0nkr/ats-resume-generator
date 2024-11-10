@@ -6,6 +6,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from sklearn.preprocessing import LabelEncoder
 import pandas as pd
+import json
 # Input data for the resume
 
 if "GROQ_API_KEY" not in os.environ:
@@ -102,6 +103,7 @@ Meta: {meta}
 
 Ensure the section is well-formatted and no line should exceed 40 words.
 Also ensure only content is generated and no additional text is added.
+generate points only for each section.
 """
 
 section_prompt = PromptTemplate(
@@ -120,7 +122,6 @@ def generate_resume_section(header, content, meta):
         "meta": meta
     }
     return section_chain.run(inputs)
-
 # Generate each section of the resume
 experience_section = generate_resume_section(
     resume_data["experience"]["header"],
@@ -151,6 +152,19 @@ others_section = generate_resume_section(
     resume_data["others"]["content"],
     resume_data["others"]["meta"]
 )
+
+# Combine all sections into the final resume
+final_resume = {
+    "experience": experience_section,
+    "education": education_section,
+    "knowledge": knowledge_section,
+    "project": project_section,
+    "others": others_section
+}
+
+# Save the generated resume as a JSON file
+with open('final_resume.json', 'w') as f:
+    json.dump(final_resume, f, indent=4)
 
 # Combine all sections into the final resume
 final_resume = f"""
